@@ -72,5 +72,5 @@ Companion app
 [![TrelloCloneReact](https://img.shields.io/badge/-Trello_Clone_React-FC6D26?style=for-the-badge&logo=GitLab&logoColor=fff)](https://gitlab.com/skyp1nus/trello-clone-react)
 
 ### This website was created for a university, namely a coursework, it was necessary to develop a web application for the control of books in the library
-[![LibraryManagement](https://img.shields.io/badge/-Library_Management-FC6D26?style=for-the-badge&logo=GitLab&logoColor=fff)](https://gitlab.com/skyp1nus/trello-clone-react)
+[![LibraryManagement](https://img.shields.io/badge/-Library_Management-FC6D26?style=for-the-badge&logo=GitLab&logoColor=fff)](https://gitlab.com/skyp1nus/librarymanagement)
 
