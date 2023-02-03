@@ -66,7 +66,7 @@ Companion app
 ## Some Projects
 
 ### The website was created to show how much of the design and programming technology stack he chose himself
-[![portfolioRolandoAguillon](https://img.shields.io/badge/-Portfolio_Rolando_Aguillon-181717?style=for-the-badge&logo=GitHub&logoColor=fff)](https://t.me/Vladyslav_Yeromenko)
+[![portfolioRolandoAguillon](https://img.shields.io/badge/-Portfolio_Rolando_Aguillon-181717?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/skyp1nus/portfolio-rolando-aguillon)
 
 ### This website is modeled after a Trello board to test development skills
 [![TrelloCloneReact](https://img.shields.io/badge/-Trello_Clone_React-FC6D26?style=for-the-badge&logo=GitLab&logoColor=fff)](https://gitlab.com/skyp1nus/trello-clone-react)
